@@ -1,0 +1,4 @@
+{
+    "verbose": true,
+    "testResultsProcessor": "jest-json-reporter"
+}
